@@ -8,4 +8,5 @@ on_left_click(); - Mouse left click
 set_block(); - Sets a block at a location to a specific block
 client_position(); - Clients location within the world 
 is_destructable(); - Checks if a block is breakable 
+s->x, s->y, s->z - Player locations
 
