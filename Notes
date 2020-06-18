@@ -1,1 +1,5 @@
+Movement:
+
 config.h - Stores all the key bindings that the player uses to move. 
+handle_movement - Function in main.c  {Called in Main loop}
+handle_mouse_input - Function in main.c {Called in Main loop}
