@@ -3,3 +3,9 @@ Movement:
 config.h - Stores all the key bindings that the player uses to move. 
 handle_movement - Function in main.c  {Called in Main loop}
 handle_mouse_input - Function in main.c {Called in Main loop}
+on_right_click(); - Mouse right click
+on_left_click(); - Mouse left click
+set_block(); - Sets a block at a location to a specific block
+client_position(); - Clients location within the world 
+is_destructable(); - Checks if a block is breakable 
+
